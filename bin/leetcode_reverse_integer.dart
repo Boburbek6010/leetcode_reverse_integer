@@ -3,8 +3,10 @@ import 'dart:io';
 import 'dart:math';
 
 void main() {
-
   /**1-masala**/
+
+  /*Reverse Integer*/
+
   // print('Raqamni kiriting => ');
   // int n = int.parse(stdin.readLineSync()!);
   // num len = n.toString().length;
@@ -35,6 +37,9 @@ void main() {
   // }
 
   /**2-masala**/
+
+  /*Count Primes*/
+
   // print('N => ');
   // int n = int.parse(stdin.readLineSync()!);
   // List list = [];
