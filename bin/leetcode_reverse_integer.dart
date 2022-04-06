@@ -2,6 +2,7 @@ import 'dart:io';
 
 import 'dart:math';
 
+
 void main() {
   /**1-masala**/
   // print('Raqamni kiriting => ');
